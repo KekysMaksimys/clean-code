@@ -20,10 +20,11 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media screen and (max-width:768px) {
 
-.aaa { text-align: center;
-}
+  .aaa { 
+    text-align: center;
+  }
 
 }
 
